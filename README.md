@@ -4,6 +4,7 @@ When running Amazon MSK Connect, there are questions which should be addressed:
 
 * What should be monitored? 
 * What are thresholds to alert or other action(s)?
+* How can I visualize that dashboard?
 
 This repo provides a custom CloudWatch dashboard to answer these questions.  It is based on the AWS documentation on [MSK Connect monitoring](https://docs.aws.amazon.com/msk/latest/developerguide/mkc-monitoring-overview.html)
 
